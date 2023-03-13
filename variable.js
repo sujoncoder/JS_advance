@@ -6,3 +6,5 @@ age = 24;
 myBirthday = '18.04.1982';
 myBirthday = "39878"
 console.log(user, age, message, myBirthday)
+
+console.log(typeof 10n)
