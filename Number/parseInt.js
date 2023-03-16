@@ -1,3 +1,3 @@
 // ParseInt Method.
-const parseMthd = 2.334;
-console.log(parseInt(parseMthd)); // result 2
+const parseIntM = 2.334;
+console.log(parseInt(parseIntM)); // result 2
