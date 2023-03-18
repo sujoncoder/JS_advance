@@ -6,3 +6,9 @@ const fruits = ["Banana", "Orange", "Lemon", "Apple", "Mango"];
 const citrus = fruits.slice(3);
 console.log(fruits);
 console.log(citrus);
+
+
+const fruitist = ["Banana", "Orange", "Lemon", "Apple", "Mango"];
+const citrust = fruits.slice(1, 3);
+console.log(fruitist);
+console.log(citrust);
