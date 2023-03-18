@@ -1,4 +1,3 @@
-let students = ["sujon", "rifat", "hasibul", "rahim"];
-
-students = students[0]
-console.log(students);
+// Push
+const fruits = ["Banana", "Orange", "Apple"];
+fruits.push("Lemon");
