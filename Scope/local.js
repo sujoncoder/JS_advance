@@ -8,3 +8,4 @@ function myFunction() {
 }
 
   // code here can NOT use carName
+  console.log(carName)
