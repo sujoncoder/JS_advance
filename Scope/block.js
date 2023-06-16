@@ -1,7 +1,7 @@
 function myFun () {
   if(100 == 100){
-    const one = 1;
-    let two = 2;
+    const one = 1; // Block-scoped variable
+    let two = 2; // Block-scoped constant
   // console.log(one,two);
   }
   // console.log(one,two); ReferenceError: one is not defined
