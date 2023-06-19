@@ -1,11 +1,11 @@
 // new
-const Person = function (name, age, job, subject) {
+const Person = function (name, age, job) {
     this.name = name;
     this.age = age;
     this.job = job;
-    this.subject = subject;
  };
-const sujon = new Person ("Sujon Sheikh", 24, "WebDevs", "math");
-console.log(sujon); 
-
+ sujon.gf = "jannati"; // adding property on sujon object.
+ sujon.company = "cs50";
+ console.log(sujon);
+ 
 // Explain: this is function constructor with new keyword. constructor is a blue print template here create more object.
