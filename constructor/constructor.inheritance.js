@@ -14,4 +14,6 @@ const Teacher = function (name, age, job, subject) {
 }
 
 const apolloSir = new Teacher("Apollo", 33, "teacher", "english");
-console.log(apolloSir);
+console.log(apolloSir.name);
+
+// Explain : constructor inheritance means suppose already have person function and there property. now need another property for teacher function. all same but need extra propert like "subject" for teacher now here is works constructor inheritance; 

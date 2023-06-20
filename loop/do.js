@@ -3,4 +3,4 @@ let x = 0;
 do {
     console.log(x);
     x++;
-} while (x < 3);
+} while (x <= 3);
