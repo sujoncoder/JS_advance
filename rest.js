@@ -7,4 +7,4 @@ const es6 = (...more) => {
 }
 es6(44, 55, 66, 77);
 
-// Explain : ...rest parameter means when you don,t know, how many arguments send. thats case you use ...rest perameter. this perameter has naming convention.
+// Explain : ...rest parameter means when you don,t know, how many arguments send. thats case you use ...rest perameter. this perameter has no naming convention. it,s es6 version and more oparation available on this oparator like find, filter, map, reduce.
