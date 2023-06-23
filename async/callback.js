@@ -19,16 +19,40 @@ function myFirst() {
 //Suppose you want to do a calculation, and then display the result.
 //You could call a calculator function (myCalculator), save the result, and then call another function (myDisplayer) to display the result:
 
-function myDisplayer(some) {
-    document.getElementById("demo").innerHTML = some;
-  }
-  
-  function myCalculator(num1, num2) {
-    let sum = num1 + num2;
-    return sum;
-  }
-  
-  let result = myCalculator(5, 5);
-  myDisplayer(result);
-  
-  
+const resultCall = (sum) => {
+  console.log(sum)
+}
+
+const calculate = (a, b) =>{
+  const sum = a + b;
+  return sum;
+};
+const result = calculate(20, 30);
+resultCall(result);
+
+// OR
+
+const second = (sum) => {
+  console.log(sum)
+}
+
+const first = (a, b) =>{
+  const sum = a + b;
+  resultCall(sum);
+};
+first(29, 70);
+// Explain : the problem is it,s not controll from outside.
+
+
+
+function myDisplayer(sum) {
+  console.log(sum);
+}
+
+function myCalculator(num1, num2, myCallback) {
+  let sum = num1 * num2;
+  myCallback(sum);
+}
+
+myCalculator(5, 5, myDisplayer);
+// Example : here is controll outside.
