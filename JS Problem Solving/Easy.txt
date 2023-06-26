@@ -1,0 +1,100 @@
+Write a program to print "Hello, World!".
+Write a program to add two numbers.
+Write a program to find the largest number among three numbers.
+Write a program to check if a number is even or odd.
+Write a program to check if a number is positive, negative, or zero.
+Write a program to find the sum of all numbers from 1 to 10.
+Write a program to calculate the factorial of a number.
+Write a program to check if a year is a leap year.
+Write a program to check if a number is prime.
+Write a program to find the Fibonacci series up to a given number.
+Write a program to reverse a string.
+Write a program to check if a string is a palindrome.
+Write a program to find the length of a string.
+Write a program to count the number of vowels in a string.
+Write a program to count the number of words in a string.
+Write a program to convert a string to lowercase.
+Write a program to remove duplicate characters from a string.
+Write a program to sort an array in ascending order.
+Write a program to find the maximum element in an array.
+Write a program to find the sum of all elements in an array.
+Write a program to remove a specific element from an array.
+Write a program to check if two arrays are equal.
+Write a program to find the intersection of two arrays.
+Write a program to find the union of two arrays.
+Write a program to remove duplicate elements from an array.
+Write a program to find the second largest element in an array.
+Write a program to find the average of elements in an array.
+Write a program to check if a string is a valid email address.
+Write a program to check if a string is a valid URL.
+Write a program to convert a number to a string.
+Write a program to convert a string to a number.
+Write a program to truncate a string to a specified length.
+Write a program to find the square root of a number.
+Write a program to generate a random number between 1 and 10.
+Write a program to find the index of a specific element in an array.
+Write a program to remove all whitespace from a string.
+Write a program to count the number of occurrences of a specific element in an array.
+Write a program to find the smallest element in an array.
+Write a program to check if a number is a perfect square.
+Write a program to find the power of a number.
+Write a program to find the length of the longest word in a string.
+Write a program to check if a string is a valid palindrome.
+Write a program to find the factorial of a number using recursion.
+Write a program to check if a string contains only digits.
+Write a program to find the index of the first occurrence of a specific element in an array.
+Write a program to check if a number is a multiple of another number.
+Write a program to find the area of a rectangle.
+Write a program to find the perimeter of a rectangle.
+Write a program to check if a number is a perfect number.
+Write a program to convert a temperature from Celsius to Fahrenheit.
+Write a program to find the largest element in an array using a loop.
+Write a program to reverse the order of words in a string.
+Write a program to check if a number is a strong number.
+Write a program to find the factors of a number.
+Write a program to find the average of numbers in an array.
+Write a program to convert a string to title case.
+Write a program to check if a string is a valid credit card number.
+Write a program to find the area of a circle.
+Write a program to find the circumference of a circle.
+Write a program to check if a number is a perfect cube.
+Write a program to check if a string contains only uppercase letters.
+Write a program to check if a string is a valid password.
+Write a program to find the sum of digits of a number.
+Write a program to check if a number is an Armstrong number.
+Write a program to find the median of numbers in an array.
+Write a program to check if a string is a valid phone number.
+Write a program to find the greatest common divisor (GCD) of two numbers.
+Write a program to find the least common multiple (LCM) of two numbers.
+Write a program to reverse the order of elements in an array.
+Write a program to remove all duplicate elements from an array.
+Write a program to find the mode of numbers in an array.
+Write a program to check if a number is a prime number using a loop.
+Write a program to sort an array in descending order.
+Write a program to check if a string is a valid IP address.
+Write a program to find the area of a triangle.
+Write a program to find the perimeter of a triangle.
+Write a program to check if a number is a strong number using a loop.
+Write a program to find the sum of even numbers from 1 to 100.
+Write a program to find the sum of odd numbers from 1 to 100.
+Write a program to check if a number is a palindrome using a loop.
+Write a program to find the sum of digits of a number using a loop.
+Write a program to find the sum of the squares of numbers from 1 to 100.
+Write a program to find the sum of the cubes of numbers from 1 to 100.
+Write a program to find the sum of the first N natural numbers.
+Write a program to find the sum of the first N even numbers.
+Write a program to find the sum of the first N odd numbers.
+Write a program to find the average of numbers using a loop.
+Write a program to find the length of the longest word in a string using a loop.
+Write a program to find the factorial of a number using a loop.
+Write a program to find the area of a rectangle using user input.
+Write a program to find the perimeter of a rectangle using user input.
+Write a program to find the area of a circle using user input.
+Write a program to find the circumference of a circle using user input.
+Write a program to find the area of a triangle using user input.
+Write a program to find the perimeter of a triangle using user input.
+Write a program to convert a temperature from Celsius to Fahrenheit using user input.
+Write a program to convert a temperature from Fahrenheit to Celsius using user input.
+Write a program to convert a binary number to decimal.
+Write a program to convert a decimal number to binary.
+Write a program to check if a number is a
