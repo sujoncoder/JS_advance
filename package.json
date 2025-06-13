@@ -1,0 +1,24 @@
+{
+  "name": "js_advance",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./2025/2024.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujoncoder/JS_advance.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sujoncoder/JS_advance/issues"
+  },
+  "homepage": "https://github.com/sujoncoder/JS_advance#readme",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
